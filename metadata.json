@@ -1,0 +1,6 @@
+{
+  "name": "Presentation Generator",
+  "description": "Generates strategic client-facing Google Slides presentations out of ticket data (Excel/CSV) automatically utilizing the Gemini API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
